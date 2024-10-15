@@ -31,6 +31,8 @@ A decentralized energy trading platform is a peer-to-peer (P2P) system that allo
 - **Ashish Yadav** (2104220100032)
 - **Bablu** (2104220100043)
 - **Mansoor Alam** (2104220100060)
+
+## Supervisor
 - **Mr. Madan Kushwaha** (Mentor)
 
 ## How It Works
